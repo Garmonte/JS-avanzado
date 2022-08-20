@@ -3,5 +3,11 @@
     "@solana/web3.js": "^1.50.1",
     "axios": "^0.27.2",
     "moment": "^2.29.4"
-  }
+  },
+  "name": "JS avanzado",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Garmonte/JS-avanzado.git",
+  "author": "Garmonte <garferark82@gmail.com>",
+  "license": "MIT"
 }
